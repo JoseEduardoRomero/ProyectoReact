@@ -11,7 +11,8 @@ function Welcome (){
               <div className="texto">
               <h1 className="letras">Welcome</h1>
           <img src={confLogo} alt="logo" className="logo"></img><br></br>
-              <Link className="btn btn-primary" to="/badges">Go to Start!</Link>
+              <Link className="btn btn-primary" to="/badges">Go to Start!</Link> &nbsp
+             <Link className="btn btn-primary" to="/Api">Ver personajes</Link> 
               </div>
           </div>
         </React.Fragment>
