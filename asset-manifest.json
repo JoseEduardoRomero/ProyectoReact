@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/css/main.ed978b40.chunk.css",
-    "main.js": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/js/main.2585f0bf.chunk.js",
-    "main.js.map": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/js/main.2585f0bf.chunk.js.map",
-    "runtime-main.js": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/js/runtime-main.6777ed48.js",
-    "runtime-main.js.map": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/js/runtime-main.6777ed48.js.map",
-    "static/css/2.85f22f3a.chunk.css": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/css/2.85f22f3a.chunk.css",
-    "static/js/2.08565a3f.chunk.js": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/js/2.08565a3f.chunk.js",
-    "static/js/2.08565a3f.chunk.js.map": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/js/2.08565a3f.chunk.js.map",
-    "index.html": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/index.html",
-    "precache-manifest.4c44dad1e637a65afc1b14ba2cf36c60.js": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/precache-manifest.4c44dad1e637a65afc1b14ba2cf36c60.js",
-    "service-worker.js": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/service-worker.js",
-    "static/css/2.85f22f3a.chunk.css.map": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/css/2.85f22f3a.chunk.css.map",
-    "static/css/main.ed978b40.chunk.css.map": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/css/main.ed978b40.chunk.css.map",
-    "static/js/2.08565a3f.chunk.js.LICENSE.txt": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/js/2.08565a3f.chunk.js.LICENSE.txt",
-    "static/media/badge-header.svg": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/media/badge-header.ed7c58ea.svg",
-    "static/media/logo.svg": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/media/logo.6841730f.svg",
-    "static/media/Welcome.css": "/git@github.com:JoseEduardoRomero/ProyectoReact.git/static/media/stars.0abcdfcd.svg"
+    "main.css": "/ProyectoReact/static/css/main.e3492814.chunk.css",
+    "main.js": "/ProyectoReact/static/js/main.2585f0bf.chunk.js",
+    "main.js.map": "/ProyectoReact/static/js/main.2585f0bf.chunk.js.map",
+    "runtime-main.js": "/ProyectoReact/static/js/runtime-main.75a7fcb7.js",
+    "runtime-main.js.map": "/ProyectoReact/static/js/runtime-main.75a7fcb7.js.map",
+    "static/css/2.85f22f3a.chunk.css": "/ProyectoReact/static/css/2.85f22f3a.chunk.css",
+    "static/js/2.08565a3f.chunk.js": "/ProyectoReact/static/js/2.08565a3f.chunk.js",
+    "static/js/2.08565a3f.chunk.js.map": "/ProyectoReact/static/js/2.08565a3f.chunk.js.map",
+    "index.html": "/ProyectoReact/index.html",
+    "precache-manifest.b95484855b26735b08ac39335c1e6720.js": "/ProyectoReact/precache-manifest.b95484855b26735b08ac39335c1e6720.js",
+    "service-worker.js": "/ProyectoReact/service-worker.js",
+    "static/css/2.85f22f3a.chunk.css.map": "/ProyectoReact/static/css/2.85f22f3a.chunk.css.map",
+    "static/css/main.e3492814.chunk.css.map": "/ProyectoReact/static/css/main.e3492814.chunk.css.map",
+    "static/js/2.08565a3f.chunk.js.LICENSE.txt": "/ProyectoReact/static/js/2.08565a3f.chunk.js.LICENSE.txt",
+    "static/media/badge-header.svg": "/ProyectoReact/static/media/badge-header.ed7c58ea.svg",
+    "static/media/logo.svg": "/ProyectoReact/static/media/logo.6841730f.svg",
+    "static/media/Welcome.css": "/ProyectoReact/static/media/stars.0abcdfcd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6777ed48.js",
+    "static/js/runtime-main.75a7fcb7.js",
     "static/css/2.85f22f3a.chunk.css",
     "static/js/2.08565a3f.chunk.js",
-    "static/css/main.ed978b40.chunk.css",
+    "static/css/main.e3492814.chunk.css",
     "static/js/main.2585f0bf.chunk.js"
   ]
 }
